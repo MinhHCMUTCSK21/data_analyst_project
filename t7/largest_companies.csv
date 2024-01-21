@@ -1,0 +1,51 @@
+Name,Industry,Revenue (USD millions),Profit (USD millions),Employees,Country,State-owned
+Walmart,Retail,611289,11680.0,2100000,United States,No
+Saudi Aramco,Oil and gas,603651,159069.0,70496,Saudi Arabia,Yes
+State Grid Corporation of China,Electricity,530009,8192.0,870287,China,Yes
+Amazon,Retail,513983,-2722.0,1541000,United States,No
+Vitol,Commodities,505000,15000.0,1560,Switzerland,No
+China National Petroleum Corporation,Oil and gas,483019,21080.0,1087049,China,Yes
+China Petrochemical Corporation,Oil and gas,471154,9657.0,527487,China,Yes
+ExxonMobil,Oil and gas,413680,55740.0,63000,United States,No
+Apple,Electronics,394328,99803.0,164000,United States,No
+Shell,Oil and gas,386201,20120.0,93000,United Kingdom,No
+UnitedHealth Group,Healthcare,324162,20120.0,400000,United States,No
+CVS Health,Healthcare,322467,4149.0,259500,United States,No
+Trafigura,Commodities,318476,6994.0,12347,Singapore,No
+China State Construction Engineering,Construction,305885,4234.0,382492,China,Yes
+Berkshire Hathaway,Financials,302089,-2282.0,383000,United States,No
+Volkswagen Group,Automotive,293685,15233.0,675805,Germany,No
+Uniper,Electricity,288309,-1996.0,7008,Germany,Yes
+Alphabet,Information technology,282836,59972.0,190234,United States,No
+McKesson,Healthcare,276711,3560.0,48000,United States,No
+Toyota,Automotive,274491,18110.0,375235,Japan,No
+TotalEnergies,Oil and gas,263310,20526.0,101279,France,No
+Glencore,Commodities,255984,17320.0,81284,Switzerland,No
+BP,Oil and gas,248891,-2487.0,67600,United Kingdom,No
+Chevron,Oil and gas,246252,35465.0,43846,United States,No
+AmerisourceBergen,Healthcare,238587,1699.0,41500,United States,No
+Samsung Electronics,Electronics,234129,42398.0,270372,South Korea,No
+Costco,Retail,226954,5844.0,304000,United States,No
+Foxconn,Electronics,222535,4751.0,767062,Taiwan,No
+Industrial and Commercial Bank of China,Financials,214766,53589.0,427587,China,Yes
+China Construction Bank,Financials,202753,48145.0,376682,China,Yes
+Microsoft,Information technology,198270,72738.0,221000,United States,No
+Stellantis,Automotive,188888,17669.0,272367,Netherlands,No
+Agricultural Bank of China,Financials,187061,38524.0,452258,China,Yes
+Ping An Insurance,Financials,181566,12454.0,344223,China,No
+Cardinal Health,Healthcare,181364,-933.0,46035,United States,No
+Cigna,Healthcare,180516,6668.0,70231,United States,No
+Marathon Petroleum,Oil and gas,180012,14516.0,17800,United States,No
+Phillips 66,Oil and gas,175702,11024.0,13000,United States,No
+Sinochem,Chemicals,173834,-1.0,220760,China,Yes
+China Railway Engineering Corporation,Construction,171669,2035.0,314792,China,Yes
+Valero Energy,Oil and gas,171189,11528.0,9743,United States,No
+Gazprom,Oil and gas,167832,17641.0,468000,Russia,Yes
+Cargill,Conglomerate,165000,,155000,United States,No
+China National Offshore Oil Corporation,Oil and gas,164762,16988.0,81775,China,Yes
+China Railway Construction Corporation,Construction,163037,1800.0,342098,China,Yes
+Baowu,Steel,161698,2493.0,245675,China,Yes
+Schwarz Gruppe,Retail,159800,,575000,Germany,No
+Mitsubishi Group,Conglomerate,159371,8723.0,79706,Japan,No
+Ford Motor Company,Automotive,158057,-1981.0,173000,United States,No
+Mercedes-Benz Group,Automotive,157403,15252.0,168797,Germany,No
